@@ -1,0 +1,8 @@
+name: GoldenFriends
+version: 1.3
+main: golden.friends.Friends
+author: pefati
+commands:
+  friend:
+    description: Comando principal para el sistema de amigos.
+    usage: /friend [add | help | deny | accept | remove | list | msg | settings | menu | globalmsg ]

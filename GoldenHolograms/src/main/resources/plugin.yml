@@ -1,0 +1,8 @@
+name: GoldenHolograms
+main: golden.holograms.GoldenHolograms
+version: 1.0
+author: pefati
+commands:
+  holo:
+    description: Comando principal para el sistema de hologramas
+    usage: /holo [create | help]
