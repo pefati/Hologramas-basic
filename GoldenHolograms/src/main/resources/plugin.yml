@@ -5,4 +5,4 @@ author: pefati
 commands:
   holo:
     description: Comando principal para el sistema de hologramas
-    usage: /holo [create | help]
+    usage: /holo [create | list | remove | help]
